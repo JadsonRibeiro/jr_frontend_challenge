@@ -27,3 +27,6 @@ yarn dev
 - axios - para requests
 - react-toastify - para toasts de notificações de erro
 - styled-components - para estilização
+
+### Enviando alterações
+- Para enviar suas alterações, [crie uma Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
